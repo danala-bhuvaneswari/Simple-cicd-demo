@@ -1,2 +1,10 @@
-<! DOCTYPE html>
-<h1>My name id Hadassah</h1>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
